@@ -1,0 +1,703 @@
+_id,title,description,video,thumbnail,hashtags,products,userId,likes,likeCount,shareLink,viewCount,shareCount,revenue,orders,isActive,comments,createdAt,__v,isTrending
+{'$oid': '698e30532c63bfbc04769c5e'},Italian pants,Italian pants,"{'public_id': 'zatch/Bits/1770926159931-840210559-1000346333.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1770926159931-840210559-1000346333.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1770926163243-530058551-video_thumb.png', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1770926163243-530058551-video_thumb.png'}","['#pants', '#italian', '#style']",[{'$oid': '698e2fc02c63bfbc047698b2'}],{'$oid': '698e25132c63bfbc047683d8'},"[{'$oid': '698e259d2c63bfbc04768479'}, {'$oid': '698e25132c63bfbc047683d8'}]",2,/bits/1770926163694-698e25132c63bfbc047683d8,54,1,0,0,False,"[{'userId': {'$oid': '698e25132c63bfbc047683d8'}, 'text': 'ygbhi', '_id': {'$oid': '69b8492cd5ba7b8d34deeef7'}, 'createdAt': {'$date': '2026-03-16T18:17:16.392Z'}}]",{'$date': '2026-02-12T19:56:03.694Z'},3,True
+{'$oid': '698e32a92c63bfbc0476ab3b'},Turtleneck shirts,,"{'public_id': 'zatch/Bits/1770926758467-327345548-1000346301.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1770926758467-327345548-1000346301.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1770926761058-859479363-video_thumb.png', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1770926761058-859479363-video_thumb.png'}","['#turtleneck', '#fashion', '#men']",[{'$oid': '698e32212c63bfbc0476a7f2'}],{'$oid': '698e25132c63bfbc047683d8'},"[{'$oid': '698e259d2c63bfbc04768479'}, {'$oid': '698e6cbe2c63bfbc0476bfa7'}, {'$oid': '699db7d01efc346e038a285b'}]",3,/bits/1770926761537-698e25132c63bfbc047683d8,78,0,0,0,False,[],{'$date': '2026-02-12T20:06:01.538Z'},3,True
+{'$oid': '698e33892c63bfbc0476b11f'},Leather jacket,,"{'public_id': 'zatch/Bits/1773061731962-97819810-edit_video.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1773061731962-97819810-edit_video.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1773061734607-585736512-edit_thumb.png', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1773061734607-585736512-edit_thumb.png'}","['#jacket', '#fashion', '#style']",[{'$oid': '698e33212c63bfbc0476ae08'}],{'$oid': '698e25132c63bfbc047683d8'},"[{'$oid': '698e259d2c63bfbc04768479'}, {'$oid': '698e6cbe2c63bfbc0476bfa7'}, {'$oid': '69a001c31efc346e038a8bfc'}]",3,/bits/1770926985068-698e25132c63bfbc047683d8,87,0,0,0,False,[],{'$date': '2026-02-12T20:09:45.068Z'},5,True
+{'$oid': '69a31d440a0ce3fd3a6bc51f'},Accessories u may like,new,"{'public_id': 'zatch/Bits/1772297911449-915422250-Most_affordable_ring_set_from_Meesho_Jewels_galaxy_ring_set_720P.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1772297911449-915422250-Most_affordable_ring_set_from_Meesho_Jewels_galaxy_ring_set_720P.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1772297913698-982070165-download (9).jpg', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1772297913698-982070165-download (9).jpg'}","['Fashion', 'art', 'new']",[{'$oid': '698e33212c63bfbc0476ae08'}],{'$oid': '698e25132c63bfbc047683d8'},[{'$oid': '698e259d2c63bfbc04768479'}],1,/bits/1772297540237-698e25132c63bfbc047683d8,52,1,0,0,False,[],{'$date': '2026-02-28T16:52:20.239Z'},1,True
+{'$oid': '69a330f30a0ce3fd3a6be9b0'},Accessories u may like,new,"{'public_id': 'zatch/Bits/1772302576329-184546126-edit_video.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1772302576329-184546126-edit_video.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1772302578703-264445620-edit_thumb.png', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1772302578703-264445620-edit_thumb.png'}","['Fashion', 'art', 'new']",[{'$oid': '698e33212c63bfbc0476ae08'}],{'$oid': '698e25132c63bfbc047683d8'},[{'$oid': '69a001c31efc346e038a8bfc'}],1,/bits/1772302579151-698e25132c63bfbc047683d8,19,0,0,0,False,[],{'$date': '2026-02-28T18:16:19.152Z'},1,False
+{'$oid': '69a3e4130a0ce3fd3a6c2507'},shop!,new!!!,"{'public_id': 'zatch/Bits/1772348433170-708445544-edit_video.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1772348433170-708445544-edit_video.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1772348434980-706168204-edit_thumb.png', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1772348434980-706168204-edit_thumb.png'}","['#fashion', '#trending', '#sale']","[{'$oid': '6999d5543ec6020eaac6152d'}, {'$oid': '6995d3468c1ab0f14cb59635'}]",{'$oid': '698e264a2c63bfbc04768582'},[{'$oid': '698e259d2c63bfbc04768479'}],1,/bits/1772348435617-698e264a2c63bfbc04768582,51,1,0,0,False,[],{'$date': '2026-03-01T07:00:35.618Z'},1,False
+{'$oid': '69a43b900a0ce3fd3a6c35e9'},Accessories u may like,new,"{'public_id': 'zatch/Bits/1772371035063-748271631-Most_affordable_ring_set_from_Meesho_Jewels_galaxy_ring_set_720P.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1772371035063-748271631-Most_affordable_ring_set_from_Meesho_Jewels_galaxy_ring_set_720P.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1772371037394-147412380-1gj.jpg', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1772371037394-147412380-1gj.jpg'}","['Fashion', 'art', 'new']",[],{'$oid': '698e264a2c63bfbc04768582'},"[{'$oid': '698e25132c63bfbc047683d8'}, {'$oid': '69a001c31efc346e038a8bfc'}]",2,/bits/1772370832652-698e264a2c63bfbc04768582,56,0,0,0,False,"[{'userId': {'$oid': '69a001c31efc346e038a8bfc'}, 'text': 'ghjjj', '_id': {'$oid': '69a8bd7f4e2d6530993ad9d5'}, 'createdAt': {'$date': '2026-03-04T23:17:19.148Z'}}]",{'$date': '2026-03-01T13:13:52.653Z'},3,False
+{'$oid': '69a69a9d0a0ce3fd3a6cae83'},Mens Strips Collection,"Mens Classy & Stylish Collections 
+
+Premium Fabric 
+Perfect Fitting 
+Slim Fit Styling 
+
+Affordable Price
+Available Sizes 
+S M L","{'public_id': 'zatch/Bits/1772526234023-147218444-1000350561.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1772526234023-147218444-1000350561.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1772526236772-227298597-1000350412.png', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1772526236772-227298597-1000350412.png'}","['#shirts', '#mensstrips', '#strip shirts', '#shirtsunder499', '#menscollection']",[{'$oid': '69988931722cd8db737026d5'}],{'$oid': '6992fed22c63bfbc04771576'},"[{'$oid': '6992fed22c63bfbc04771576'}, {'$oid': '699f0b381efc346e038a7963'}, {'$oid': '698e259d2c63bfbc04768479'}, {'$oid': '69a001c31efc346e038a8bfc'}, {'$oid': '698e25132c63bfbc047683d8'}, {'$oid': '69b15fd4c203397431aea856'}]",6,/bits/1772526237278-6992fed22c63bfbc04771576,156,0,0,0,True,"[{'userId': {'$oid': '69a001c31efc346e038a8bfc'}, 'text': 'Good product', '_id': {'$oid': '69ae5fc6cb66544f3dc6b942'}, 'createdAt': {'$date': '2026-03-09T05:51:02.983Z'}}]",{'$date': '2026-03-03T08:23:57.279Z'},9,False
+{'$oid': '69a997184e2d6530993ae84c'},new,new collection,"{'public_id': 'zatch/Bits/1772721941709-210097489-1000282314.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1772721941709-210097489-1000282314.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1772721943993-674922087-1000279371.webp', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1772721943993-674922087-1000279371.webp'}","['#trend', '#clock', '#new']",[{'$oid': '6999d5543ec6020eaac6152d'}],{'$oid': '698e264a2c63bfbc04768582'},[{'$oid': '698e259d2c63bfbc04768479'}],1,/bits/1772721944477-698e264a2c63bfbc04768582,46,0,0,0,False,"[{'userId': {'$oid': '698e259d2c63bfbc04768479'}, 'text': 'good product', '_id': {'$oid': '69aa72084e2d6530993b3e1e'}, 'createdAt': {'$date': '2026-03-06T06:19:52.19Z'}}]",{'$date': '2026-03-05T14:45:44.478Z'},4,False
+{'$oid': '69aac90f4e2d6530993b50a6'},Lenin shirts,Lenin shirts,"{'public_id': 'zatch/Bits/1773061552080-386241987-edit_video.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1773061552080-386241987-edit_video.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1773061555902-443516493-edit_thumb.png', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1773061555902-443516493-edit_thumb.png'}","['#lenin', '#fashion', '#men']",[{'$oid': '69a846974e2d6530993ab1c1'}],{'$oid': '698e25132c63bfbc047683d8'},"[{'$oid': '698e259d2c63bfbc04768479'}, {'$oid': '69e6f79ae9d9e96620246e32'}]",2,/bits/1772800271409-698e25132c63bfbc047683d8,87,2,0,0,False,[],{'$date': '2026-03-06T12:31:11.409Z'},6,True
+{'$oid': '69b517aff10cd924f53e68b3'},12x18 Customized Photo Frame,,"{'public_id': 'zatch/Bits/1773475755794-945187316-1000099507.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1773475755794-945187316-1000099507.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1773475759187-446034923-1000099333.jpg', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1773475759187-446034923-1000099333.jpg'}","['#photoframe', '#memories', '#customized']",[{'$oid': '69b5118df10cd924f53e5b02'}],{'$oid': '699308462c63bfbc04771685'},"[{'$oid': '698e259d2c63bfbc04768479'}, {'$oid': '698e25132c63bfbc047683d8'}, {'$oid': '698e263e2c63bfbc0476857e'}, {'$oid': '698e6cbe2c63bfbc0476bfa7'}]",4,/bits/1773475759595-699308462c63bfbc04771685,159,2,0,0,True,"[{'userId': {'$oid': '698e25132c63bfbc047683d8'}, 'text': 'rrhhyj', '_id': {'$oid': '69b82c7ed5ba7b8d34dec794'}, 'createdAt': {'$date': '2026-03-16T16:14:54.414Z'}}]",{'$date': '2026-03-14T08:09:19.595Z'},5,False
+{'$oid': '69b8d57bd5ba7b8d34df0a7d'},Buy 1 Get 1 Collections,"Festival Dhamaka Offer...
+
+Buy any 1 shirt get selected  1 shirt for free
+
+Available Sizes are 
+S M L XL","{'public_id': 'zatch/Bits/1773720950989-812629589-1000361455.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1773720950989-812629589-1000361455.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1773720955197-736540856-1000356708.jpg', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1773720955197-736540856-1000356708.jpg'}","['#shirtsoffers', '#buy1get1', '#printedshirts', '#checks', '#plain', '#shirts']",[{'$oid': '69b85767d5ba7b8d34def636'}],{'$oid': '6992fed22c63bfbc04771576'},[{'$oid': '698e259d2c63bfbc04768479'}],1,/bits/1773720955702-6992fed22c63bfbc04771576,105,2,0,0,False,[],{'$date': '2026-03-17T04:15:55.703Z'},5,False
+{'$oid': '69b99950d5ba7b8d34df55f8'},8*12 Photo frame,Very good looking Photo frame,"{'public_id': 'zatch/Bits/1776627520440-103949798-edit_video.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1776627520440-103949798-edit_video.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1776627523619-721788437-edit_thumb.png', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1776627523619-721788437-edit_thumb.png'}","['#couple photos frame', '#birthday frames', '#gifts']",[{'$oid': '69e4f5ab330134cd220e78c9'}],{'$oid': '69b90e7ed5ba7b8d34df1270'},"[{'$oid': '69b90e7ed5ba7b8d34df1270'}, {'$oid': '698e259d2c63bfbc04768479'}]",2,/bits/1773771088216-69b90e7ed5ba7b8d34df1270,141,0,0,0,True,[],{'$date': '2026-03-17T18:11:28.217Z'},2,False
+{'$oid': '69b99b08d5ba7b8d34df5cb3'},6*8 Classic Photo frame,Good memories,"{'public_id': 'zatch/Bits/1773771525187-58239485-1000210298.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1773771525187-58239485-1000210298.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1773771528362-537989330-1000210506.jpg', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1773771528362-537989330-1000210506.jpg'}","['#Good memories', '#photo frame', '#gifts']",[{'$oid': '69b99a77d5ba7b8d34df5c52'}],{'$oid': '69b90e7ed5ba7b8d34df1270'},[{'$oid': '698e264a2c63bfbc04768582'}],1,/bits/1773771528828-69b90e7ed5ba7b8d34df1270,130,0,0,0,True,[],{'$date': '2026-03-17T18:18:48.829Z'},1,False
+{'$oid': '69b99c44d5ba7b8d34df60eb'},4X4 premium product,Very good premium product,"{'public_id': 'zatch/Bits/1773771841199-144025475-1000210300.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1773771841199-144025475-1000210300.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1773771843892-556740339-1000210502.jpg', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1773771843892-556740339-1000210502.jpg'}","['#Photo frame', '#premium photo frame', '#gifts']",[{'$oid': '69b99baad5ba7b8d34df607b'}],{'$oid': '69b90e7ed5ba7b8d34df1270'},[{'$oid': '698e259d2c63bfbc04768479'}],1,/bits/1773771844335-69b90e7ed5ba7b8d34df1270,99,0,0,0,True,[],{'$date': '2026-03-17T18:24:04.335Z'},1,False
+{'$oid': '69b99fbed5ba7b8d34df68c7'},12x18 Photo frame,Very rich looking frame,"{'public_id': 'zatch/Bits/1773772730836-616798574-1000210508.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1773772730836-616798574-1000210508.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1773772733903-54131266-1000210509.jpg', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1773772733903-54131266-1000210509.jpg'}","['#gifts', '#rich looking frame', '#beautiful']",[{'$oid': '69b99efcd5ba7b8d34df685e'}],{'$oid': '69b90e7ed5ba7b8d34df1270'},"[{'$oid': '69b90e7ed5ba7b8d34df1270'}, {'$oid': '698e259d2c63bfbc04768479'}]",2,/bits/1773772734369-69b90e7ed5ba7b8d34df1270,130,0,0,0,True,[],{'$date': '2026-03-17T18:38:54.37Z'},2,False
+{'$oid': '69b9a3d2d5ba7b8d34df6f90'},16X20 marriage Frame,Marriage memories,"{'public_id': 'zatch/Bits/1773773775188-338670455-1000210517.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1773773775188-338670455-1000210517.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1773773778257-635206127-1000210518.jpg', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1773773778257-635206127-1000210518.jpg'}","['#memories', '#marriage', '#frames']",[{'$oid': '69b9a311d5ba7b8d34df6f02'}],{'$oid': '69b90e7ed5ba7b8d34df1270'},"[{'$oid': '69d6218df367bc1222c709a1'}, {'$oid': '698e259d2c63bfbc04768479'}, {'$oid': '698e263e2c63bfbc0476857e'}, {'$oid': '69e33bd0b813aa5278154ad5'}]",4,/bits/1773773778737-69b90e7ed5ba7b8d34df1270,203,2,0,0,True,"[{'userId': {'$oid': '698e259d2c63bfbc04768479'}, 'text': 'looks great for such a less price', '_id': {'$oid': '69d685b9f367bc1222c7546e'}, 'createdAt': {'$date': '2026-04-08T16:43:37.416Z'}}]",{'$date': '2026-03-17T18:56:18.738Z'},5,False
+{'$oid': '69e32b360cd62f0b1a4e6035'},jeans,jeans,"{'public_id': 'zatch/Bits/1776495411458-910606372-1000355683.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1776495411458-910606372-1000355683.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1776495413938-17638956-video_thumb.png', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1776495413938-17638956-video_thumb.png'}","['#fashion', '#jeans', '#men']",[{'$oid': '69e329dd0cd62f0b1a4e5e69'}],{'$oid': '698e25132c63bfbc047683d8'},[],0,/bits/1776495414331-698e25132c63bfbc047683d8,18,0,0,0,False,[],{'$date': '2026-04-18T06:56:54.332Z'},0,False
+{'$oid': '69e37c47330134cd220d8870'},jeans,jeans,"{'public_id': 'zatch/Bits/1776516165409-762399499-34887.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1776516165409-762399499-34887.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1776516167445-430593238-video_thumb.png', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1776516167445-430593238-video_thumb.png'}","['#fashion', '#jeans', '#men']",[{'$oid': '69e37b91330134cd220d87b0'}],{'$oid': '698e25132c63bfbc047683d8'},[],0,/bits/1776516167923-698e25132c63bfbc047683d8,41,2,0,0,False,[],{'$date': '2026-04-18T12:42:47.924Z'},0,False
+{'$oid': '69e38343330134cd220d9c20'},jeans,jeans,"{'public_id': 'zatch/Bits/1779193662818-376236213-edit_video.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1779193662818-376236213-edit_video.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1779193662818-274258500-edit_thumb.png', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1779193662818-274258500-edit_thumb.png'}","['#jeans', '#fashion', '#men']","[{'$oid': '69e38278330134cd220d9b81'}, {'$oid': '6a09a792b7bb9861659ca2dd'}]",{'$oid': '698e25132c63bfbc047683d8'},[],0,/bits/1776517955777-698e25132c63bfbc047683d8,36,0,0,0,False,[],{'$date': '2026-04-18T13:12:35.778Z'},0,False
+{'$oid': '69e73c9ee9d9e96620249058'},Much Bamboo Towel,ultra soft and Highly Absorbent and light weight Anti odour,"{'public_id': 'zatch/Bits/1776779090032-468427963-1000658402.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1776779090032-468427963-1000658402.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1776779092108-925398846-video_thumb.png', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1776779092108-925398846-video_thumb.png'}","['#quick Dry 100 Bamboo eco friendly', '#feather light twel', '#bath/Gym/pool towel']",[{'$oid': '69e730abe9d9e96620248260'}],{'$oid': '69902d022c63bfbc0476da36'},"[{'$oid': '69902d022c63bfbc0476da36'}, {'$oid': '698e263e2c63bfbc0476857e'}]",2,/bits/1776762014682-69902d022c63bfbc0476da36,135,0,0,0,True,"[{'userId': {'$oid': '698e259d2c63bfbc04768479'}, 'text': 'nice', '_id': {'$oid': '69f2c5d168f7e97ef43ed93c'}, 'createdAt': {'$date': '2026-04-30T03:00:33.231Z'}}]",{'$date': '2026-04-21T09:00:14.683Z'},3,False
+{'$oid': '69ece24543cd9b163f98247f'},Rose bouquet,buy handmade flowers made with love for your loved ones,"{'public_id': 'zatch/Bits/1777132098140-89333369-1000202124.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1777132098140-89333369-1000202124.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1777132101255-782973777-1000201289.jpg', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1777132101255-782973777-1000201289.jpg'}","['#eternal#gifts#handmade', '#Startupindia', '#Bouquet']",[{'$oid': '69ea37b98f71d9a0781603ab'}],{'$oid': '69e76871e9d9e9662024c11a'},"[{'$oid': '698e25132c63bfbc047683d8'}, {'$oid': '698e259d2c63bfbc04768479'}, {'$oid': '69f8608068f7e97ef44183e4'}]",3,/bits/1777132101810-69e76871e9d9e9662024c11a,127,0,0,0,True,"[{'userId': {'$oid': '698e259d2c63bfbc04768479'}, 'text': 'nice product', '_id': {'$oid': '69fc29b868f7e97ef442a3aa'}, 'createdAt': {'$date': '2026-05-07T05:57:12.838Z'}}]",{'$date': '2026-04-25T15:48:21.812Z'},4,False
+{'$oid': '69f8fb9568f7e97ef441c429'},Denim Streetwear Shirt,"This isn’t just denim — it’s a reflection of confidence, individuality, and modern luxury.","{'public_id': 'zatch/Bits/1777925010927-269724418-669951.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1777925010927-269724418-669951.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1777925012984-751332133-video_thumb.png', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1777925012984-751332133-video_thumb.png'}","['#denimshirt', '#denim', '#streetwear', '#shirt', '#fashion', '#india']",[{'$oid': '69f88c1f68f7e97ef4419608'}],{'$oid': '69f8608068f7e97ef44183e4'},"[{'$oid': '698e259d2c63bfbc04768479'}, {'$oid': '69f8d31668f7e97ef441bc28'}, {'$oid': '69f8608068f7e97ef44183e4'}, {'$oid': '699a2e703ec6020eaac62877'}, {'$oid': '69e51ea68174770ee78f3b81'}]",5,/bits/1777925013471-69f8608068f7e97ef44183e4,125,3,0,0,True,"[{'userId': {'$oid': '699a2e703ec6020eaac62877'}, 'text': 'Hi AK Beats', '_id': {'$oid': '6a1472e2a9955ce9439628ee'}, 'createdAt': {'$date': '2026-05-25T16:03:46.084Z'}}, {'userId': {'$oid': '699a2e703ec6020eaac62877'}, 'text': 'Do you have this available in XL?l', '_id': {'$oid': '6a1472f2a9955ce9439628f3'}, 'createdAt': {'$date': '2026-05-25T16:04:02.191Z'}}, {'userId': {'$oid': '69f8608068f7e97ef44183e4'}, 'text': 'yes', '_id': {'$oid': '6a188a16fcdbfad047e3e5c1'}, 'createdAt': {'$date': '2026-05-28T18:31:50.153Z'}}, {'userId': {'$oid': '69f8608068f7e97ef44183e4'}, 'text': 'yes we have', '_id': {'$oid': '6a188a30fcdbfad047e3e5c5'}, 'createdAt': {'$date': '2026-05-28T18:32:16.093Z'}}]",{'$date': '2026-05-04T20:03:33.472Z'},11,False
+{'$oid': '6a06be371a9ba20ae97cd7f0'},Gori Nature Floral,"This oversized T-shirt is made for those who move with discipline and purpose.
+
+Designed with a relaxed fit and clean silhouette, it’s built to be worn daily — without noise, without distraction.
+
+GORI represents silent work and self-made confidence.
+
+* Oversized fit  
+* Soft, breathable cotton  
+* Minimal design  
+* Everyday comfort  
+* Made for disciplined, self-made youth
+
+Fit: Oversized  
+Model wears: L  
+For a relaxed look, choose your regular size.
+
+Care Instructions:
+* Machine wash cold  
+* Wash inside out  
+* Do not bleach  
+Dry in shade  
+
+This is more than a T-shirt.
+It’s a mindset.","{'public_id': 'zatch/Bits/1778826803913-606450250-4315.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1778826803913-606450250-4315.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1778826807098-222937006-4321.jpg', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1778826807098-222937006-4321.jpg'}","['#Gori fashion', '#t shirt', '#summer', '#party']",[{'$oid': '69fcd17e68f7e97ef4432257'}],{'$oid': '69e1a04d0cd62f0b1a4de442'},[{'$oid': '698e263e2c63bfbc0476857e'}],1,/bits/1778826807697-69e1a04d0cd62f0b1a4de442,45,0,0,0,True,[],{'$date': '2026-05-15T06:33:27.698Z'},1,False
+{'$oid': '6a06bfb11a9ba20ae97ce2b1'},Gori Blue T shirt,"This oversized T-shirt is made for those who move with discipline and purpose.
+
+Designed with a relaxed fit and clean silhouette, it’s built to be worn daily — without noise, without distraction.
+
+GORI represents silent work and self-made confidence.
+
+* Oversized fit  
+* Soft, breathable cotton  
+* Minimal design  
+* Everyday comfort  
+* Made for disciplined, self-made youth
+
+Fit: Oversized  
+Model wears: L  
+For a relaxed look, choose your regular size.
+
+Care Instructions:
+* Machine wash cold  
+* Wash inside out  
+* Do not bleach  
+* Dry in shade  
+
+This is more than a T-shirt.
+It’s a mindset.","{'public_id': 'zatch/Bits/1778827175971-307104752-4331.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1778827175971-307104752-4331.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1778827184134-182965370-4326.jpg', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1778827184134-182965370-4326.jpg'}","['#summer cool dress', '#t shirt', '#fashion']",[{'$oid': '69fcd21a68f7e97ef4432302'}],{'$oid': '69e1a04d0cd62f0b1a4de442'},[],0,/bits/1778827185529-69e1a04d0cd62f0b1a4de442,59,0,0,0,True,[],{'$date': '2026-05-15T06:39:45.53Z'},0,False
+{'$oid': '6a06c0371a9ba20ae97ce5be'},Gori Signature Over t shirt,"This oversized T-shirt is made for those who move with discipline and purpose.
+
+Designed with a relaxed fit and clean silhouette, it’s built to be worn daily — without noise, without distraction.
+
+GORI represents silent work and self-made confidence.
+
+* Oversized fit  
+* Soft, breathable cotton  
+* Minimal design  
+* Everyday comfort  
+* Made for disciplined, self-made youth
+
+Fit: Oversized  
+Model wears: L  
+For a relaxed look, choose your regular size.
+
+Care Instructions:
+* Machine wash cold  
+* Wash inside out  
+* Do not bleach  
+* Dry in shade  
+
+This is more than a T-shirt.
+It’s a mindset.","{'public_id': 'zatch/Bits/1778827316894-247759003-4332.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1778827316894-247759003-4332.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1778827319355-97034712-4321.jpg', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1778827319355-97034712-4321.jpg'}","['#fashion', '#t shirt', '#summer']",[{'$oid': '69fccffc68f7e97ef44315b3'}],{'$oid': '69e1a04d0cd62f0b1a4de442'},[{'$oid': '69e1a04d0cd62f0b1a4de442'}],1,/bits/1778827319884-69e1a04d0cd62f0b1a4de442,44,0,0,0,True,[],{'$date': '2026-05-15T06:41:59.885Z'},1,False
+{'$oid': '6a06c0a21a9ba20ae97ce604'},Gori French Fashion T shirt,"This oversized T-shirt is made for those who move with discipline and purpose.
+
+Designed with a relaxed fit and clean silhouette, it’s built to be worn daily — without noise, without distraction.
+
+GORI represents silent work and self-made confidence.
+
+* Oversized fit  
+* Soft, breathable cotton  
+* Minimal design  
+* Everyday comfort  
+* Made for disciplined, self-made youth
+
+Fit: Oversized  
+Model wears: L  
+For a relaxed look, choose your regular size.
+
+Care Instructions:
+* Machine wash cold  
+* Wash inside out  
+* Do not bleach  
+* Dry in shade  
+
+This is more than a T-shirt.
+It’s a mindset.","{'public_id': 'zatch/Bits/1778827423411-549621185-4335.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1778827423411-549621185-4335.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1778827425694-16748495-4321.jpg', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1778827425694-16748495-4321.jpg'}","['#French fashion', '#fashion', '#summer']",[{'$oid': '69fcd17e68f7e97ef4432257'}],{'$oid': '69e1a04d0cd62f0b1a4de442'},"[{'$oid': '698e259d2c63bfbc04768479'}, {'$oid': '69e1a04d0cd62f0b1a4de442'}, {'$oid': '69b90e7ed5ba7b8d34df1270'}]",3,/bits/1778827426134-69e1a04d0cd62f0b1a4de442,79,0,0,0,True,[],{'$date': '2026-05-15T06:43:46.135Z'},3,False
+{'$oid': '6a06d1da1a9ba20ae97d51d9'},Gori one step,"Designed with a relaxed fit and clean silhouette, it’s built to be worn daily — without noise, without distraction.
+
+GORI represents silent work and self-made confidence.
+
+• Oversized fit  
+• Soft, breathable cotton  
+• Minimal design  
+• Everyday comfort  
+• Made for disciplined, self-made youth
+
+Fit: Oversized  
+Model wears: L  
+For a relaxed look, choose your regular size.
+
+Care Instructions:
+• Machine wash cold  
+• Wash inside out  
+• Do not bleach  
+• Dry in shade  
+
+This is more than a T-shirt.
+It’s a mindset.","{'public_id': 'zatch/Bits/1778831830993-847699623-4437.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1778831830993-847699623-4437.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1778831834368-31148414-4443.jpg', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1778831834368-31148414-4443.jpg'}","['#gori fashion', '#T shirts', '#Summer']",[{'$oid': '6a06d0961a9ba20ae97d50f4'}],{'$oid': '69e1a04d0cd62f0b1a4de442'},[{'$oid': '69e1a04d0cd62f0b1a4de442'}],1,/bits/1778831834901-69e1a04d0cd62f0b1a4de442,56,0,0,0,True,[],{'$date': '2026-05-15T07:57:14.902Z'},3,False
+{'$oid': '6a070e151a9ba20ae97df094'},8X12 (A4 sheet),very premium look of photo frame,"{'public_id': 'zatch/Bits/1778847241663-360545333-4349.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1778847241663-360545333-4349.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1778847248733-238336785-4465.jpg', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1778847248733-238336785-4465.jpg'}","['#photo frame', '#gifts', '#couple']",[{'$oid': '69e4f5ab330134cd220e78c9'}],{'$oid': '69b90e7ed5ba7b8d34df1270'},[],0,/bits/1778847253053-69b90e7ed5ba7b8d34df1270,43,0,0,0,True,[],{'$date': '2026-05-15T12:14:13.054Z'},0,False
+{'$oid': '6a0810b51a9ba20ae97ebb91'},12x18 photo frame,"Elegant 12x18 photo frame designed to showcase your precious memories with style. Crafted with durable quality and a modern finish, it perfectly enhances home, office, or studio décor. Ideal for portraits, family photos, artwork, and special moments, adding a classy and timeless touch to any space.","{'public_id': 'zatch/Bits/1778914115361-394462530-edit_video.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1778914115361-394462530-edit_video.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1778914118771-68569777-4600.jpg', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1778914118771-68569777-4600.jpg'}","['#frame', '#Photo frame', '#gifts']",[{'$oid': '6a080d3e1a9ba20ae97eaf56'}],{'$oid': '69b90e7ed5ba7b8d34df1270'},[],0,/bits/1778913461959-69b90e7ed5ba7b8d34df1270,36,0,0,0,True,[],{'$date': '2026-05-16T06:37:41.96Z'},0,False
+{'$oid': '6a0812db1a9ba20ae97ecaa8'},8x12,"Elegant 8x12  photo frame designed to showcase your precious memories with style. Crafted with durable quality and a modern finish, it perfectly enhances home, office, or studio décor. Ideal for portraits, family photos, artwork, and special moments, adding a classy and timeless touch to any space.","{'public_id': 'zatch/Bits/1778914009163-918227128-4611.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1778914009163-918227128-4611.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1778914011199-204300462-4597.jpg', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1778914011199-204300462-4597.jpg'}","['#frame', '#gifts', '#photo']",[{'$oid': '69e4f5ab330134cd220e78c9'}],{'$oid': '69b90e7ed5ba7b8d34df1270'},[],0,/bits/1778914011664-69b90e7ed5ba7b8d34df1270,26,0,0,0,True,[],{'$date': '2026-05-16T06:46:51.665Z'},0,False
+{'$oid': '6a0814ae1a9ba20ae97ee853'},4X4 Photo frame,"Elegant 4X4 photo frame designed to showcase your precious memories with style. Crafted with durable quality and a modern finish, it perfectly enhances home, office, or studio décor. Ideal for portraits, family photos, artwork, and special moments, adding a classy and timeless touch to any space.","{'public_id': 'zatch/Bits/1778914476159-99707958-4612.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1778914476159-99707958-4612.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1778914478212-398842358-4613.jpg', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1778914478212-398842358-4613.jpg'}","['#4X4 frame', '#gifts', '#frame']",[{'$oid': '69b99baad5ba7b8d34df607b'}],{'$oid': '69b90e7ed5ba7b8d34df1270'},[],0,/bits/1778914478829-69b90e7ed5ba7b8d34df1270,33,0,0,0,True,[],{'$date': '2026-05-16T06:54:38.83Z'},0,False
+{'$oid': '6a0816641a9ba20ae97ef8a0'},pattu saree,pattu saree with maggam work blouse,"{'public_id': 'zatch/Bits/1778914912502-871197550-1000695178.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1778914912502-871197550-1000695178.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1778914915335-358681014-1000695776.jpg', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1778914915335-358681014-1000695776.jpg'}","['#premium quality', '#Good price', '#exlent dezine']",[{'$oid': '6a0812cb1a9ba20ae97eca99'}],{'$oid': '69902d022c63bfbc0476da36'},"[{'$oid': '69b90e7ed5ba7b8d34df1270'}, {'$oid': '698e6cbe2c63bfbc0476bfa7'}, {'$oid': '698e263e2c63bfbc0476857e'}]",3,/bits/1778914916709-69902d022c63bfbc0476da36,65,0,0,0,True,[],{'$date': '2026-05-16T07:01:56.71Z'},3,False
+{'$oid': '6a0823a91a9ba20ae97f0b3b'},cotton saree,soft summer cotton saree,"{'public_id': 'zatch/Bits/1778918309419-480595777-1000696088.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1778918309419-480595777-1000696088.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1778918311742-744931382-1000695918.jpg', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1778918311742-744931382-1000695918.jpg'}","['#soft cotton', '#fine quality', '#gently texture']",[{'$oid': '6a0820931a9ba20ae97f0a76'}],{'$oid': '69902d022c63bfbc0476da36'},"[{'$oid': '69902d022c63bfbc0476da36'}, {'$oid': '698e6cbe2c63bfbc0476bfa7'}, {'$oid': '698e263e2c63bfbc0476857e'}, {'$oid': '69b15fd4c203397431aea856'}]",4,/bits/1778918313809-69902d022c63bfbc0476da36,70,2,0,0,True,[],{'$date': '2026-05-16T07:58:33.81Z'},4,False
+{'$oid': '6a085a6c1a9ba20ae97fa263'},Sarees,"Product Details
+
+* Fabric: Pure Mulmul Cotton (92*80)
+* Work: Stylish Screen Print
+* Saree Length: 5.5 meters
+* Blouse Piece: 80 cm to 1 meter (Contrast Blouse)
+* Texture: Soft, breathable & skin-friendly
+* Comfort: Lightweight and easy to drape
+
+Why You’ll Love It
+
+✔ Premium soft cotton feel
+✔ Elegant contrast blouse combination
+✔ Comfortable for all-day wear
+✔ Trendy and graceful look
+✔ Suitable for every season
+
+💰 Price: ₹899/- Only
+🚚 Free Shipping All Over India","{'public_id': 'zatch/Bits/1778932327496-427666141-40528.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1778932327496-427666141-40528.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1778932331559-76160150-video_thumb.png', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1778932331559-76160150-video_thumb.png'}","['#sarees', '#women', '#ethnic']",[{'$oid': '6a084cb81a9ba20ae97f64d5'}],{'$oid': '6a084ac71a9ba20ae97f5f37'},[{'$oid': '6a084ac71a9ba20ae97f5f37'}],1,/bits/1778932332027-6a084ac71a9ba20ae97f5f37,44,0,0,0,True,[],{'$date': '2026-05-16T11:52:12.028Z'},1,False
+{'$oid': '6a08bb2eb7bb9861659c3e06'},BOXY with Xcross,"“Soft pink. Sharp presence. 🌸⚡
+Clean stripes in the front, statement art at the back — made for the ones who carry confidence effortlessly. 😎
+Lightweight comfort with luxury streetwear energy.
+Simple look. Powerful vibe. 🔥
+Turn every sidewalk into your runway. 🚶‍♂️✨
+Because real style doesn’t need to be loud to stand out. 🖤","{'public_id': 'zatch/Bits/1778957099662-823859429-769853.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1778957099662-823859429-769853.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1778957101859-434544775-693947.jpg', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1778957101859-434544775-693947.jpg'}","['#streetwearfashion', '#menstyle', '#trend']",[{'$oid': '69ff49ef9210c3b1aa02984b'}],{'$oid': '69f8608068f7e97ef44183e4'},"[{'$oid': '69f8608068f7e97ef44183e4'}, {'$oid': '698e259d2c63bfbc04768479'}]",2,/bits/1778957102346-69f8608068f7e97ef44183e4,51,1,0,0,True,[],{'$date': '2026-05-16T18:45:02.347Z'},2,False
+{'$oid': '6a094fadb7bb9861659c71bb'},5x7 Frame,"Capture your beautiful memories with this stylish 5x7 photo frame. Designed with premium quality materials and an elegant finish, it is perfect for displaying family photos, portraits, and special moments at home, office, or gifting for birthdays, anniversaries, and memorable occasions.","{'public_id': 'zatch/Bits/1778995114895-40129468-4934.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1778995114895-40129468-4934.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1778995117112-532745776-4814.jpg', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1778995117112-532745776-4814.jpg'}","['#Photo frame', '#gifts', '#love']",[{'$oid': '6a094e12b7bb9861659c70dd'}],{'$oid': '69b90e7ed5ba7b8d34df1270'},[],0,/bits/1778995117706-69b90e7ed5ba7b8d34df1270,46,0,0,0,True,[],{'$date': '2026-05-17T05:18:37.708Z'},0,False
+{'$oid': '6a095017b7bb9861659c7243'},12x18 Customized Frame,"Capture your beautiful memories with this stylish photo frame. Designed with premium quality materials and an elegant finish, it is perfect for displaying family photos, portraits, and special moments at home, office, or gifting for birthdays, anniversaries, and memorable occasions.","{'public_id': 'zatch/Bits/1778995220809-366415843-4938.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1778995220809-366415843-4938.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1778995223153-368764227-4812.jpg', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1778995223153-368764227-4812.jpg'}","['#frame', '#gifts', '#love']",[{'$oid': '69b99baad5ba7b8d34df607b'}],{'$oid': '69b90e7ed5ba7b8d34df1270'},[{'$oid': '698e264a2c63bfbc04768582'}],1,/bits/1778995223654-69b90e7ed5ba7b8d34df1270,35,0,0,0,True,[],{'$date': '2026-05-17T05:20:23.655Z'},1,False
+{'$oid': '6a095063b7bb9861659c72d5'},12x18 Customized Frame,"Capture your beautiful memories with this stylish photo frame. Designed with premium quality materials and an elegant finish, it is perfect for displaying family photos, portraits, and special moments at home, office, or gifting for birthdays, anniversaries, and memorable occasions.","{'public_id': 'zatch/Bits/1778995297327-575265594-4935.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1778995297327-575265594-4935.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1778995299466-249567860-4807.jpg', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1778995299466-249567860-4807.jpg'}","['#gifts', '#frame', '#love']",[{'$oid': '6a094d70b7bb9861659c7027'}],{'$oid': '69b90e7ed5ba7b8d34df1270'},[{'$oid': '698e269c2c63bfbc04768709'}],1,/bits/1778995299934-69b90e7ed5ba7b8d34df1270,37,0,0,0,True,[],{'$date': '2026-05-17T05:21:39.935Z'},1,False
+{'$oid': '6a09796bb7bb9861659c83dd'},Photos combo,all unique photo combo frames,"{'public_id': 'zatch/Bits/1779005796156-209886790-4977.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1779005796156-209886790-4977.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1779005798377-170995116-video_thumb.png', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1779005798377-170995116-video_thumb.png'}","['#frames', '#gifts', '#combo']","[{'$oid': '6a094d70b7bb9861659c7027'}, {'$oid': '6a094e12b7bb9861659c70dd'}, {'$oid': '6a080d3e1a9ba20ae97eaf56'}]",{'$oid': '69b90e7ed5ba7b8d34df1270'},[{'$oid': '698e264a2c63bfbc04768582'}],1,/bits/1779005803148-69b90e7ed5ba7b8d34df1270,41,0,0,0,True,[],{'$date': '2026-05-17T08:16:43.149Z'},1,False
+{'$oid': '6a0979edb7bb9861659c8aac'},whole wall Frames,very good looking whole wall frames,"{'public_id': 'zatch/Bits/1779005926454-362564762-4978.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1779005926454-362564762-4978.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1779005930210-483643592-video_thumb.png', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1779005930210-483643592-video_thumb.png'}","['#frames', '#gifts', '#love', '#family']","[{'$oid': '69b99efcd5ba7b8d34df685e'}, {'$oid': '69b9a311d5ba7b8d34df6f02'}, {'$oid': '69e4f5ab330134cd220e78c9'}, {'$oid': '69b99baad5ba7b8d34df607b'}]",{'$oid': '69b90e7ed5ba7b8d34df1270'},[{'$oid': '698e264a2c63bfbc04768582'}],1,/bits/1779005933171-69b90e7ed5ba7b8d34df1270,55,0,0,0,True,[],{'$date': '2026-05-17T08:18:53.171Z'},1,False
+{'$oid': '6a097a35b7bb9861659c8c38'},Photo frames,Premium Photo frames.,"{'public_id': 'zatch/Bits/1779006001422-334876472-4979.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1779006001422-334876472-4979.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1779006004570-865504259-video_thumb.png', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1779006004570-865504259-video_thumb.png'}","['#premium', '#love', '#family']","[{'$oid': '69b99a77d5ba7b8d34df5c52'}, {'$oid': '69b99baad5ba7b8d34df607b'}, {'$oid': '69b9a311d5ba7b8d34df6f02'}, {'$oid': '6a094e12b7bb9861659c70dd'}]",{'$oid': '69b90e7ed5ba7b8d34df1270'},[],0,/bits/1779006005590-69b90e7ed5ba7b8d34df1270,58,0,0,0,True,[],{'$date': '2026-05-17T08:20:05.591Z'},0,False
+{'$oid': '6a097fdfb7bb9861659c9a20'},Zipper Shirts,"Product Highlights:
+Product Type: Men’s Utility Hooded Shirt
+Fit: Regular Fit
+Sleeve Type: Full Sleeves
+Closure: Front Zip
+Pattern: Solid with Utility Print
+Occasion: Casual / Streetwear / Travel / Daily Wear
+Fabric: Premium Cotton Blend
+Neck: Hooded Collar
+Wash Care: Machine Wash","{'public_id': 'zatch/Bits/1779007450608-782878953-1000410247.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1779007450608-782878953-1000410247.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1779007455136-726574581-1000409514.png', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1779007455136-726574581-1000409514.png'}","['#zippershirts', '#hoodyshirt', '#zipjackets', '#trendyshirt', '#ootd', '#mensfashion']",[{'$oid': '6a08a144b7bb9861659c114c'}],{'$oid': '6992fed22c63bfbc04771576'},"[{'$oid': '69b90e7ed5ba7b8d34df1270'}, {'$oid': '698e264a2c63bfbc04768582'}, {'$oid': '6992fed22c63bfbc04771576'}]",3,/bits/1779007455578-6992fed22c63bfbc04771576,91,0,0,0,True,[],{'$date': '2026-05-17T08:44:15.579Z'},3,False
+{'$oid': '6a0ad46fd382a23d66b3fe6d'},pattu saree,premium quality  with blouse,"{'public_id': 'zatch/Bits/1779094635524-890008018-1000699263.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1779094635524-890008018-1000699263.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1779094637810-346894030-1000699224.jpg', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1779094637810-346894030-1000699224.jpg'}","['#premium Quality', '#Good price', '#soft fabric']",[{'$oid': '6a0812cb1a9ba20ae97eca99'}],{'$oid': '69902d022c63bfbc0476da36'},"[{'$oid': '698e264a2c63bfbc04768582'}, {'$oid': '698e6cbe2c63bfbc0476bfa7'}]",2,/bits/1779094639062-69902d022c63bfbc0476da36,70,0,0,0,True,[],{'$date': '2026-05-18T08:57:19.066Z'},2,False
+{'$oid': '6a0adae0d382a23d66b425a1'},cotton saree,cotton saree summer 🏝️ special soft fabric,"{'public_id': 'zatch/Bits/1779096280359-212578181-1000699250.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1779096280359-212578181-1000699250.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1779096282427-278177701-video_thumb.png', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1779096282427-278177701-video_thumb.png'}","['#pure cotton', '#soft fabric', '#good dezine']",[{'$oid': '6a0820931a9ba20ae97f0a76'}],{'$oid': '69902d022c63bfbc0476da36'},"[{'$oid': '69902d022c63bfbc0476da36'}, {'$oid': '698e264a2c63bfbc04768582'}, {'$oid': '698e6cbe2c63bfbc0476bfa7'}]",3,/bits/1779096288077-69902d022c63bfbc0476da36,47,0,0,0,True,[],{'$date': '2026-05-18T09:24:48.078Z'},3,False
+{'$oid': '6a0b4336d382a23d66b4511e'},The Phantom Grey Spray,"Dark tones. Clean energy.
+The Phantom Spray Oversized Shirt blends luxury aesthetics with raw streetwear attitude for a fit that speaks without trying.
+Built for the bold. 🔥","{'public_id': 'zatch/Bits/1779122945276-578178259-781268.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1779122945276-578178259-781268.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1779122972754-505967283-775476.png', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1779122972754-505967283-775476.png'}","['#streetwear #oversizedshirt #luxuryfashion #urbanstyle #menswear #fashionreels #streetstyle #akbeats #darkfashion #minimalstyle', '#streetwear #luxuryfashion', '#urbanlifestyle']",[{'$oid': '6a0ab529b7bb9861659d6541'}],{'$oid': '69f8608068f7e97ef44183e4'},"[{'$oid': '69f8608068f7e97ef44183e4'}, {'$oid': '698e264a2c63bfbc04768582'}]",2,/bits/1779122998146-69f8608068f7e97ef44183e4,89,0,0,0,True,[],{'$date': '2026-05-18T16:49:58.147Z'},4,False
+{'$oid': '6a0c150fb10aa6108036df1c'},test,test,"{'public_id': 'zatch/Bits/1779176696154-628681770-image_picker_82BBAD95-51CA-4657-BB49-D5441D0EA820-30110-000007E921286381IMG_0879.mov', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1779176696154-628681770-image_picker_82BBAD95-51CA-4657-BB49-D5441D0EA820-30110-000007E921286381IMG_0879.mov'}","{'public_id': 'zatch/Bits/thumbnails/1779176717040-245173261-video_thumb.png', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1779176717040-245173261-video_thumb.png'}","['#new', '#product', '#test']",[{'$oid': '6999d5543ec6020eaac6152d'}],{'$oid': '698e264a2c63bfbc04768582'},[],0,/bits/1779176719319-698e264a2c63bfbc04768582,0,0,0,0,False,[],{'$date': '2026-05-19T07:45:19.326Z'},0,False
+{'$oid': '6a0c158bb10aa6108036df86'},Shorts,"Product Highlights :
+Product Type: Men’s Active Gym Shorts
+Fit Type: Regular / Athletic Fit
+Fabric: Lightweight Performance Fabric
+Pattern: Solid
+Pocket Style: Dual Zip Pockets
+Occasion: Gym, Workout, Running, Sports, Casual Wear
+Waist Type: Elastic Waistband
+Comfort Level: Ultra Comfortable & Breathable","{'public_id': 'zatch/Bits/1779179389942-231311103-edit_video.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1779179389942-231311103-edit_video.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1779179394862-555003997-edit_thumb.png', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1779179394862-555003997-edit_thumb.png'}","['#shorts', '#gymwear', '#mensshorts', '#shortsunder400', '#lycrashorts']",[{'$oid': '6a0c1bc8b10aa6108036ed59'}],{'$oid': '6992fed22c63bfbc04771576'},"[{'$oid': '6992fed22c63bfbc04771576'}, {'$oid': '699a2e703ec6020eaac62877'}]",2,/bits/1779176843738-6992fed22c63bfbc04771576,77,0,0,0,True,[],{'$date': '2026-05-19T07:47:23.739Z'},2,False
+{'$oid': '6a0c1a49b10aa6108036e8d0'},Mens Formal Trousers,"Crafted with high-quality breathable linen fabric, these trousers deliver a clean tailored fit with superior comfort for all-day wear. The elegant finish, slim straight-cut design, and luxury detailing create a sharp and confident look perfect for office meetings, business events, corporate wear, and formal occasions.
+
+Product Features :
+• Premium Linen Blend Fabric
+• Elegant Slim Fit Formal Design
+• Modern Hook Closure System
+• Wrinkle-Resistant Premium Finish
+• Soft, Breathable & Comfortable Material
+• Ideal for Office, Meetings & Formal Events
+• Luxury Tailored Stitching & Detailing
+• Stylish Straight Fit with Premium Fall
+
+Perfect For:
+Office Wear | Corporate Meetings | Executive Styling | Formal Events | Daily Professional Wear | Business Casual Look
+
+Style Tip:
+Pair it with a solid formal shirt and leather shoes for a complete premium corporate look.","{'public_id': 'zatch/Bits/1779178036608-93655462-5455.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1779178036608-93655462-5455.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1779178047923-280727658-5440.png', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1779178047923-280727658-5440.png'}","[""#Men's Formal Trousers"", '#Mens', '#Fashion']",[{'$oid': '6a09caacb7bb9861659cf684'}],{'$oid': '6992fed22c63bfbc04771576'},[{'$oid': '6992fed22c63bfbc04771576'}],1,/bits/1779178057025-6992fed22c63bfbc04771576,38,0,0,0,True,[],{'$date': '2026-05-19T08:07:37.026Z'},1,False
+{'$oid': '6a0c27f2cccd23326e8be29f'},Mens formal shirts,"Formal shirt designed for modern men who love a classy and confident look. Crafted with premium-quality fabric, this shirt offers a smooth finish, comfortable fit, and elegant appearance perfect for office wear, business meetings, parties, weddings, and special occasions.
+
+Product Highlights :
+✔ Premium Soft & Comfortable Fabric
+✔ Stylish Solid Pink Formal Design
+✔ Perfect for Office, Business & Party Wear
+✔ Smart Fit with Elegant Collar Styling
+✔ Breathable Material for All-Day Comfort
+✔ Trendy & Modern Look for Men
+✔ Easy to Pair with Formal Pants & Blazers
+✔ Ideal for Casual Formal and Festive Occasions
+
+
+Style Tip:
+Pair this formal shirt with black trousers, navy pants, or beige chinos along with formal shoes for a premium gentleman look.","{'public_id': 'zatch/Bits/1779181538698-806077077-5517.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1779181538698-806077077-5517.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1779181543876-831782627-5550.png', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1779181543876-831782627-5550.png'}","['#Formals', '#Shirts', '#premium']",[{'$oid': '6a0c238b4cad13808875ac58'}],{'$oid': '6992fed22c63bfbc04771576'},[{'$oid': '6992fed22c63bfbc04771576'}],1,/bits/1779181554444-6992fed22c63bfbc04771576,49,1,0,0,True,[],{'$date': '2026-05-19T09:05:54.446Z'},1,False
+{'$oid': '6a0c4c22d4f03db64a786e2d'},shirst,"Stone Article Shirt designed for men who love a classy and stylish look. Crafted with a smooth and comfortable fabric, this shirt features an elegant stone work pattern on the front that adds a rich and fashionable appeal. The unique detailing makes it a perfect choice for weddings, receptions, festive celebrations, parties, and special occasions.
+
+Highlights:
+• Premium Stone Article Design
+• Stylish Partywear & Wedding Collection
+• Soft, Comfortable & Breathable Fabric
+• Elegant Slim Fit Look
+• Full Sleeve Casual/Formal Style
+• Perfect for Marriage Functions, Parties & Festive Wear
+• Trendy and Modern Fashion Statement
+
+
+Style Tip:
+
+Pair it with black jeans or formal trousers and loafers for a premium party-ready outfit.","{'public_id': 'zatch/Bits/1779192926017-744786448-edit_video.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1779192926017-744786448-edit_video.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1779192926017-663891076-edit_thumb.png', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1779192926017-663891076-edit_thumb.png'}","['#shirts', '#premium', '#green']",[{'$oid': '6a0c5403d4f03db64a787e67'}],{'$oid': '6992fed22c63bfbc04771576'},[{'$oid': '6992fed22c63bfbc04771576'}],1,/bits/1779190818696-6992fed22c63bfbc04771576,34,0,0,0,True,[],{'$date': '2026-05-19T11:40:18.696Z'},1,False
+{'$oid': '6a0c5135d4f03db64a78773f'},Cute princess hamper,"The cutest little combo for girls who love aesthetic accessories ✨
+Perfect for daily styling, gifting, birthdays & soft girl looks 💖
+💫 Combo Includes:
+• Satin Scrunchie
+• Bow Clip
+• Floral Claw Clip
+• Charm Bracelet
+• Cute Mini Hair Clips
+✨ Lightweight & comfy
+✨ Trendy aesthetic designs
+✨ Perfect for everyday use
+💖 Price: ₹99 only
+Limited stock available! DM to order ✨","{'url': 'https://zatchp.b-cdn.net/zatch/Bits/1780319701991-245548818.mp4', 'public_id': 'zatch/Bits/1780319701991-245548818.mp4'}","{'url': 'https://zatchp.b-cdn.net/zatch/Bits/thumbnails/1780319704580-715186131.jpg', 'public_id': 'zatch/Bits/thumbnails/1780319704580-715186131.jpg'}","['#cute', '#Cute princess hamper', '#gifts']",[{'$oid': '6a06f1bc1a9ba20ae97daf49'}],{'$oid': '69e51ea68174770ee78f3b81'},[],0,/bits/1779192117252-69e51ea68174770ee78f3b81,63,0,0,0,True,[],{'$date': '2026-05-19T12:01:57.253Z'},0,False
+{'$oid': '6a0c55f6d4f03db64a788383'},Birthday Hamper,"Products title 
+
+The ""Red Crush Hamper""  🎀🥺💌
+
+Description 
+
+Woww birthday full of surprises ❤️
+
+
+Cute clover chain ❤️
+Cute hair accessories 
+And perfect scrunchies 
+
+
+Perfect for gifting your girlfriend's or your wife  🥹❤️✨
+
+DM to customise yours 💕
+Orders open 💌","{'url': 'https://zatchp.b-cdn.net/zatch/Bits/1780319935645-543723143.mp4', 'public_id': 'zatch/Bits/1780319935645-543723143.mp4'}","{'url': 'https://zatchp.b-cdn.net/zatch/Bits/thumbnails/1780319940530-596732908.jpg', 'public_id': 'zatch/Bits/thumbnails/1780319940530-596732908.jpg'}","['#gifts', '#fashion', ""#woman's""]",[{'$oid': '6a0c5510d4f03db64a7882f8'}],{'$oid': '69e51ea68174770ee78f3b81'},[],0,/bits/1779193334125-69e51ea68174770ee78f3b81,60,0,0,0,True,[],{'$date': '2026-05-19T12:22:14.126Z'},0,False
+{'$oid': '6a0c58c8d4f03db64a788ccd'},Elegant Bagru Print Mul Cotton Sarees,"Elegant Bagru Print Mul Cotton Sarees
+
+Soft • Lightweight • Comfortable • Timeless Elegance 🤍
+🚚 Free Shipping Across India 🇮🇳
+
+🌸 Pure mul cotton sarees with beautiful traditional Bagru prints — perfect for daily wear, office wear, and casual outings.
+
+🧺 Wash Care:
+• Gentle hand wash separately
+• Use mild detergent
+• Do not bleach
+• Dry in shade for long-lasting colours","{'public_id': 'zatch/Bits/1779194054048-184826380-5358.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1779194054048-184826380-5358.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1779194054048-940711263-5662.jpg', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1779194054048-940711263-5662.jpg'}","[""#Saree's"", ""#woman's fashion"", ""#woman's""]",[{'$oid': '6a0c57d3d4f03db64a788c68'}],{'$oid': '6a084ac71a9ba20ae97f5f37'},[{'$oid': '698e264a2c63bfbc04768582'}],1,/bits/1779194056887-6a084ac71a9ba20ae97f5f37,70,2,0,0,True,[],{'$date': '2026-05-19T12:34:16.888Z'},1,False
+{'$oid': '6a0c5c48d4f03db64a78945a'},Red Crush Hamper,"Woww birthday full of surprises ❤️
+
+Promise chain 💍
+Heart pendant chain
+Hoop earrings 
+Cute hair accessories 
+And perfect scrunchies 
+
+
+Perfect for gifting your girlfriend's or your wife  🥹❤️✨","{'public_id': 'zatch/Bits/1779194921532-438615023-5666.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1779194921532-438615023-5666.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1779194921532-526647600-5717.jpg', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1779194921532-526647600-5717.jpg'}","['#gifts', '#hamper', '#fashion']",[{'$oid': '6a0c5b46d4f03db64a7891da'}],{'$oid': '69e51ea68174770ee78f3b81'},"[{'$oid': '698e264a2c63bfbc04768582'}, {'$oid': '698e259d2c63bfbc04768479'}, {'$oid': '69e51ea68174770ee78f3b81'}]",3,/bits/1779194952544-69e51ea68174770ee78f3b81,83,0,0,0,True,[],{'$date': '2026-05-19T12:49:12.545Z'},3,False
+{'$oid': '6a0c67bed4f03db64a78af0b'},"""Stay with me"" Hamper","When “sorry” isn’t enough…
+send your feelings in a box ❤️‍🩹✨
+
+Promise chain 💍
+Handwritten emotions 💌
+Cute little surprises 🎀
+
+Perfect for fixing fights, expressing love & making memories 🥹✨
+
+DM to customise yours 💕
+Orders open 💌","{'public_id': 'zatch/Bits/1779197884149-843096560-1000579518.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1779197884149-843096560-1000579518.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1779197884149-84703226-1000579517.png', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1779197884149-84703226-1000579517.png'}","['#gift hampers', '#customised', '#forHer']",[{'$oid': '6a0c5510d4f03db64a7882f8'}],{'$oid': '69e51ea68174770ee78f3b81'},[{'$oid': '698e264a2c63bfbc04768582'}],1,/bits/1779197886805-69e51ea68174770ee78f3b81,89,0,0,0,True,[],{'$date': '2026-05-19T13:38:06.808Z'},1,False
+{'$oid': '6a0d458cd4f03db64a78fefc'},Soft Cotton Sarees ✨,"Soft Cotton Sarees ✨
+
+Comfort meets elegance in every drape 🤍
+Lightweight, breathable & perfect for everyday style.
+
+🌸 Soft fabric with graceful look
+
+🚚 Free Shipping Across India 🇮🇳
+
+Perfect for office wear, casual outings & daily comfort.
+
+🧺 Wash Care:
+• Gentle hand wash recommended
+• Use mild detergent
+• Dry in shade
+• Do not bleach","{'public_id': 'zatch/Bits/1779254657351-140576156-5744.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1779254657351-140576156-5744.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1779254657351-326347366-6010.jpg', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1779254657351-326347366-6010.jpg'}","[""#Saree's"", '#cotton sarees', '#gifts', '#fashion']",[{'$oid': '6a0d41f9d4f03db64a78fc66'}],{'$oid': '6a084ac71a9ba20ae97f5f37'},[],0,/bits/1779254668576-6a084ac71a9ba20ae97f5f37,76,0,0,0,True,[],{'$date': '2026-05-20T05:24:28.577Z'},0,False
+{'$oid': '6a0edae6ed25ae0d7deab2c8'},Malai silk sarees,"Beautiful Malai Silk Sarees 💖
+Soft • Stylish • Budget Friendly
+
+💫 Just : ₹599/-
+🚚 Shipping Extra
+
+🧺 Wash Care:
+• Gentle hand wash recommended
+• Use mild detergent
+• Dry in shade
+• Do not bleach
+
+📸 Colours may slightly vary due to photography and lighting.","{'public_id': 'zatch/Bits/1779358431828-699571944-41470.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1779358431828-699571944-41470.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1779358431828-109120690-video_thumb.png', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1779358431828-109120690-video_thumb.png'}","['#silk sarees', '#Malai silk sarees', '#Soft sarees']",[{'$oid': '6a0ed88eed25ae0d7deaace5'}],{'$oid': '6a084ac71a9ba20ae97f5f37'},[],0,/bits/1779358438899-6a084ac71a9ba20ae97f5f37,53,0,0,0,True,[],{'$date': '2026-05-21T10:13:58.901Z'},0,False
+{'$oid': '6a0eee72ed25ae0d7deabbfc'},Texture Tees,"Luxury Texture. Premium Comfort. Everyday Style. 🔥
+Milton Legend Jacquard Tees — Designed to Make You Stand Out.","{'public_id': 'zatch/Bits/1779363417802-821923590-1000413822.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1779363417802-821923590-1000413822.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1779363417802-932097370-1000413808.png', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1779363417802-932097370-1000413808.png'}","['#tees', '#roundnecktees', '#tshirts', '#halfsleeves']",[{'$oid': '6a0ee9dbed25ae0d7deab96a'}],{'$oid': '6992fed22c63bfbc04771576'},[{'$oid': '6992fed22c63bfbc04771576'}],1,/bits/1779363442562-6992fed22c63bfbc04771576,79,0,0,0,True,[],{'$date': '2026-05-21T11:37:22.563Z'},5,False
+{'$oid': '6a0efbb6c5a9d08fea4c6025'},Premium Checks Shirts,"Stay Stylish. Stay Comfortable. Premium Checked Shirt for the Modern Gentleman.
+
+Product Specifications
+Fabric: 100% Cotton
+Pattern: Checked / Plaid
+Fit Type: Regular Slim Fit
+Sleeve Type: Full Sleeve
+Collar Type: Spread Collar
+Closure: Button Closure
+Occasion: Casual, Semi-Formal, Party Wear
+Care Instructions: Machine Wash / Hand Wash","{'public_id': 'zatch/Bits/1779366831350-257323016-1000413951.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1779366831350-257323016-1000413951.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1779366831350-300184368-1000362973.jpg', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1779366831350-300184368-1000362973.jpg'}","['#Checks', '#shirts', '#premium shirts', '#cottonshirts', '#xlsizeshirts', '#formals', '#casuals', '#casual shirts', '#casual wear']",[{'$oid': '6a0ef572ed25ae0d7deac0b9'}],{'$oid': '6992fed22c63bfbc04771576'},"[{'$oid': '698e259d2c63bfbc04768479'}, {'$oid': '6992fed22c63bfbc04771576'}]",2,/bits/1779366838465-6992fed22c63bfbc04771576,86,0,0,0,True,[],{'$date': '2026-05-21T12:33:58.483Z'},2,False
+{'$oid': '6a0efe70c5a9d08fea4c67cf'},Maheshwari silk sarees,"Maheswari Silk Sarees ✨
+Soft feel. Elegant shine. All-day comfort 💛
+
+Price: ₹1099 only
+📩 Book your order now before stock ends!
+🚚 Free Shipping All Over India
+
+🧺 Wash Care:
+• Gentle hand wash recommended
+• Use mild detergent
+• Dry in shade
+• Do not bleach
+
+📸 Colours may slightly vary due to photography and lighting.","{'public_id': 'zatch/Bits/1779367522426-886534334-41539.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1779367522426-886534334-41539.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1779367522426-823269526-video_thumb.png', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1779367522426-823269526-video_thumb.png'}","['#MaheswariSilk', '#SilkSaree', '#SoftAndShine', '#SareeLove', '#EthnicWear']",[{'$oid': '6a0efc72c5a9d08fea4c65db'}],{'$oid': '6a084ac71a9ba20ae97f5f37'},"[{'$oid': '6992fed22c63bfbc04771576'}, {'$oid': '69b15fd4c203397431aea856'}]",2,/bits/1779367536045-6a084ac71a9ba20ae97f5f37,103,0,0,0,True,[],{'$date': '2026-05-21T12:45:36.046Z'},2,False
+{'$oid': '6a0febf65ecfbb647dcf6c6f'},Korean Style Texture Shirts,"Key Features
+Korean Streetwear Inspired Design
+Premium Textured Lightweight Fabric
+Oversized Loose Fit Comfort
+Breathable & Soft Material
+Full Sleeve Casual Styling
+Trendy Relaxed Drop Shoulder Look
+Stylish Minimal Pocket Design
+Perfect for Casual & Smart Casual Wear
+Easy to Pair with Jeans, Cargos & Trousers
+Modern Luxury Fashion Finish","{'public_id': 'zatch/Bits/1779428333577-571246615-1000414061.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1779428333577-571246615-1000414061.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1779428333577-413960084-1000414272.png', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1779428333577-413960084-1000414272.png'}","['#koreanshirts', '#nettedshirts', '#shirts', '#stylishshirts', '#trendingshirts', '#mensfashion', '#ootd', '#fashion outfit']",[{'$oid': '6a0fd742ed3be771a708af7d'}],{'$oid': '6992fed22c63bfbc04771576'},"[{'$oid': '698e259d2c63bfbc04768479'}, {'$oid': '6992fed22c63bfbc04771576'}, {'$oid': '699a2e703ec6020eaac62877'}]",3,/bits/1779428342541-6992fed22c63bfbc04771576,78,0,0,0,True,[],{'$date': '2026-05-22T05:39:02.544Z'},3,False
+{'$oid': '6a101a44a9955ce94394ce5d'},Trendy Plain Shirts,"Upgrade your wardrobe with the new SLR Premium Shirt Collection designed for modern men who love stylish comfort and elegant street fashion. Featuring premium textured fabric with a lightweight feel, these shirts deliver a perfect blend of sophistication, comfort, and trendy Korean-inspired styling.
+
+Product Highlights
+Premium Textured Fabric Finish
+Stylish Korean-Inspired Design
+Full Sleeve Casual Shirt
+Soft, Lightweight & Breathable Material
+Comfortable Slim-Regular Fit
+Perfect for Casual, Party & Smart Casual Looks
+Trendy Modern Fashion Styling
+Easy to Pair with Jeans, Chinos & Trousers
+Premium Stitching & Finishing
+Available in Multiple Attractive Colors","{'public_id': 'zatch/Bits/1779440140490-340940948-1000414445.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1779440140490-340940948-1000414445.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1779440140490-882580280-1000414316.png', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1779440140490-882580280-1000414316.png'}","['#shirts', '#plainshirts', '#fashion outfit', '#fashionable', '#mensfashion', '#casuals', '#casual wear', '#trendy']",[{'$oid': '6a101579a9955ce94394cb68'}],{'$oid': '6992fed22c63bfbc04771576'},[{'$oid': '6992fed22c63bfbc04771576'}],1,/bits/1779440196488-6992fed22c63bfbc04771576,108,0,0,0,True,[],{'$date': '2026-05-22T08:56:36.49Z'},1,False
+{'$oid': '6a108c54a9955ce94394fb1e'},STREETIX - Anime Meets Urban Fashion,"Upgrade your streetwear collection with this premium oversized anime graphic T-shirt designed for bold fashion lovers. Featuring high-quality front and back anime-inspired prints, this trendy oversized tee delivers a modern Korean streetwear aesthetic with all-day comfort.
+
+Product Highlights
+Premium Anime Graphic Print
+Stylish Oversized Streetwear Fit
+Soft & Breathable Fabric
+Lightweight Everyday Comfort
+Trendy Korean Fashion Style
+High-Quality Front & Back Printing
+Relaxed Drop Shoulder Look
+Perfect for Casual & Street Styling
+Easy to Pair with Jeans, Cargos & Sneakers
+Youth Fashion Inspired Design","{'public_id': 'zatch/Bits/1779469386963-540135195-1000414834.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1779469386963-540135195-1000414834.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1779469386963-853564068-1000414542.png', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1779469386963-853564068-1000414542.png'}","['#animetees', '#anime tshirts', '#tees', '#down shoulder tees', '#down shoulder tshirts', '#streetwear fashion', '#fashion', '#fashionable', '#mensfashion']",[{'$oid': '6a107c38a9955ce94394f869'}],{'$oid': '6992fed22c63bfbc04771576'},[{'$oid': '6992fed22c63bfbc04771576'}],1,/bits/1779469396261-6992fed22c63bfbc04771576,115,0,0,0,True,[],{'$date': '2026-05-22T17:03:16.261Z'},1,False
+{'$oid': '6a130a9ba9955ce94395f998'},Pure mul cotton sarees,"Pure mul cotton Sarees ✨
+Soft. Elegant. Timeless. 💛
+Finest quality with premium comfort for every occasion.
+
+🌸 Free Shipping Available
+🛍️ Book your order now
+💰 Just ₹1399 only
+
+Limited stock available. DM now to order 📩
+
+🧺 Wash Care:
+• Gentle hand wash recommended
+• Use mild detergent
+• Dry in shade
+• Do not bleach
+
+📸 Colours may slightly vary due to photography and lighting.","{'public_id': 'zatch/Bits/1779632789332-200586042-42295.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1779632789332-200586042-42295.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1779632789332-743049139-video_thumb.jpg', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1779632789332-743049139-video_thumb.jpg'}","['#cotton', '#purecotton', '#mulcotton', '#puremul']",[{'$oid': '6a1305d8a9955ce94395f7e5'}],{'$oid': '6a084ac71a9ba20ae97f5f37'},[],0,/bits/1779632795451-6a084ac71a9ba20ae97f5f37,56,0,0,0,True,[],{'$date': '2026-05-24T14:26:35.452Z'},0,False
+{'$oid': '6a130b7ea9955ce94395f9c6'},Hand Painted Kota sarees,"Hand-painted Kota sarees blend airy elegance with artistic craftsmanship. Made from lightweight Kota Doria fabric, these sarees are known for their soft texture, delicate weave, and graceful drape. Each hand-painted design adds a unique touch of tradition and creativity, making every saree a wearable piece of art — perfect for festive wear, casual elegance, and timeless ethnic styling.
+
+💰 Price: ₹1599/- Only
+🚚 Free Shipping All Over India
+
+🧺 Wash Care:
+• Gentle hand wash recommended
+• Use mild detergent
+• Dry in shade
+• Do not bleach
+
+📸 Colours may slightly vary due to photography and lighting.","{'public_id': 'zatch/Bits/1779633017157-209975739-42300.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1779633017157-209975739-42300.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1779633017157-525680068-video_thumb.jpg', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1779633017157-525680068-video_thumb.jpg'}","['#handpaint', '#kotasarees', '#sarees', '#kotadoria']",[{'$oid': '6a130676a9955ce94395f8f4'}],{'$oid': '6a084ac71a9ba20ae97f5f37'},[],0,/bits/1779633022871-6a084ac71a9ba20ae97f5f37,81,0,0,0,True,[],{'$date': '2026-05-24T14:30:22.871Z'},0,False
+{'$oid': '6a1556b04dfbf8e8d4fda85e'},My first reel,Check this out,"{'url': 'https://zatchp.b-cdn.net/zatch/Bits/1779971360158-172279229.mp4', 'public_id': 'zatch/Bits/1779971360158-172279229.mp4'}","{'url': 'https://zatchp.b-cdn.net/zatch/Bits/thumbnails/1779971361756-306608386.png', 'public_id': 'zatch/Bits/thumbnails/1779971361756-306608386.png'}","['fashion', 'trending', '#test']",[{'$oid': '6a09a792b7bb9861659ca2dd'}],{'$oid': '698e25132c63bfbc047683d8'},[],0,/bits/1779783344788-698e25132c63bfbc047683d8,2,0,0,0,False,[],{'$date': '2026-05-26T08:15:44.79Z'},0,False
+{'$oid': '6a1598534dfbf8e8d4fdb4c1'},Kota Style Hand Printed Cotton Sarees,"Kota Style Hand Printed Cotton Sarees ✨
+Lightweight, smooth, and made for all-day comfort 💛
+Zero maintenance. Effortless elegance. Timeless beauty.
+
+Feel confident, look graceful, and stay comfortable wherever you go 🌸
+Perfect for daily wear, office wear, casual outings, and simple elegant styling.
+
+💫 Soft Cotton
+💫 Hand Printed Designs
+💫 Comfortable & Breathable
+💫 Easy to Maintain
+💫 Beautiful in Every Drape
+
+💰 Price: ₹899/- Only
+🚚 Shipping Extra
+
+🧺 Wash Care:
+• Gentle hand wash recommended
+• Use mild detergent
+• Dry in shade
+• Do not bleach
+
+📸 Colours may slightly vary due to photography and lighting.","{'public_id': 'zatch/Bits/1779800143564-647385247-42623.mp4', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/1779800143564-647385247-42623.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1779800143564-596431658-video_thumb.jpg', 'url': 'https://zatchP.b-cdn.net/zatch/Bits/thumbnails/1779800143564-596431658-video_thumb.jpg'}","['#kotastyle', '#softcotton', '#handprint']",[{'$oid': '6a15973b4dfbf8e8d4fdb44f'}],{'$oid': '6a084ac71a9ba20ae97f5f37'},"[{'$oid': '698e269c2c63bfbc04768709'}, {'$oid': '69e51ea68174770ee78f3b81'}]",2,/bits/1779800147538-6a084ac71a9ba20ae97f5f37,84,0,0,0,True,[],{'$date': '2026-05-26T12:55:47.539Z'},2,False
+{'$oid': '6a1878f7fcdbfad047e3e197'},Lenin Mix Sarees,"✨ Stay cool and stylish this summer with our premium Lenin Mix Sarees ✨
+
+Soft • Smooth • Lightweight • Perfect for everyday elegance 💫
+
+Explore our Cream Colour Specials — timeless shades that bring effortless grace to your wardrobe 🤍
+
+💰 Price: ₹549/- Only
+Book Now
+🚚 Shipping Extra
+
+🧺 Wash Care:
+• Gentle hand wash recommended
+• Use mild detergent
+• Dry in shade
+• Do not bleach
+
+📸 Colours may slightly vary due to photography and lighting.
+
+Comfort meets classy style only at Mukura.","{'public_id': 'zatch/Bits/1779988720358-480654357.mp4', 'url': 'https://zatchp.b-cdn.net/zatch/Bits/1779988720358-480654357.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1779988726149-894977988.jpg', 'url': 'https://zatchp.b-cdn.net/zatch/Bits/thumbnails/1779988726149-894977988.jpg'}","['#leninmix', '#leninsarees', '#softsarees']",[{'$oid': '6a1877bdfcdbfad047e3e106'}],{'$oid': '6a084ac71a9ba20ae97f5f37'},[],0,/bits/1779988727094-6a084ac71a9ba20ae97f5f37,55,0,0,0,True,[],{'$date': '2026-05-28T17:18:47.095Z'},0,False
+{'$oid': '6a188f05fcdbfad047e3e8ee'},Risk Taker,"RISK TAKER Acid Wash Oversized Tee
+Elevate your streetwear game with the bold attitude of the RISK TAKER oversized tee. Designed with a premium acid-wash finish and striking graphic artwork, this piece blends rebellious energy with modern luxury street fashion.
+Crafted for comfort and statement styling, the relaxed oversized fit delivers effortless urban aesthetics for everyday wear.
+Highlights
+Premium oversized fit
+Vintage acid-wash texture
+High-definition graphic print
+Soft & breathable fabric
+Streetwear-inspired luxury look
+Perfect for casual, urban & nightwear styling
+Made for the fearless. Styled for the streets.","{'public_id': 'zatch/Bits/1779994365221-517634798.mp4', 'url': 'https://zatchp.b-cdn.net/zatch/Bits/1779994365221-517634798.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1779994367849-436670925.png', 'url': 'https://zatchp.b-cdn.net/zatch/Bits/thumbnails/1779994367849-436670925.png'}","['#streetfashion', '#Mensfashion', '#T-Shirt']",[{'$oid': '6a0b61ccd382a23d66b46220'}],{'$oid': '69f8608068f7e97ef44183e4'},[{'$oid': '69f8608068f7e97ef44183e4'}],1,/bits/1779994373613-69f8608068f7e97ef44183e4,59,0,0,0,True,[],{'$date': '2026-05-28T18:52:53.614Z'},1,False
+{'$oid': '6a18903ffcdbfad047e3ea86'},Lenin mix Sarees,"✨ Stay cool and stylish this summer with our premium Lenin Mix Sarees ✨
+
+Soft • Smooth • Lightweight • Perfect for everyday elegance 💫
+
+Explore our Cream Colour Specials — timeless shades that bring effortless grace to your wardrobe 🤍
+
+💰 Price: ₹549/- Only
+Book Now
+🚚 Shipping Extra
+
+🧺 Wash Care:
+• Gentle hand wash recommended
+• Use mild detergent
+• Dry in shade
+• Do not bleach
+
+📸 Colours may slightly vary due to photography and lighting.
+
+Comfort meets classy style only at Mukura.","{'public_id': 'zatch/Bits/1779994673419-84528370.mp4', 'url': 'https://zatchp.b-cdn.net/zatch/Bits/1779994673419-84528370.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1779994686214-479786772.jpg', 'url': 'https://zatchp.b-cdn.net/zatch/Bits/thumbnails/1779994686214-479786772.jpg'}","['#leninsarees', '#leninmix', '#softsarees']",[{'$oid': '6a188f07fcdbfad047e3e8fe'}],{'$oid': '6a084ac71a9ba20ae97f5f37'},[],0,/bits/1779994687309-6a084ac71a9ba20ae97f5f37,49,0,0,0,True,[],{'$date': '2026-05-28T18:58:07.31Z'},0,False
+{'$oid': '6a18916afcdbfad047e3ecb3'},AK BEATS,,"{'public_id': 'zatch/Bits/1779994980069-61302422.mp4', 'url': 'https://zatchp.b-cdn.net/zatch/Bits/1779994980069-61302422.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1779994984146-249731094.jpg', 'url': 'https://zatchp.b-cdn.net/zatch/Bits/thumbnails/1779994984146-249731094.jpg'}","['#Akbeats', '#hyderabad', '#fashion']","[{'$oid': '6a0b61ccd382a23d66b46220'}, {'$oid': '6a0ab529b7bb9861659d6541'}, {'$oid': '6a0aaac2b7bb9861659d61e1'}, {'$oid': '69ff49ef9210c3b1aa02984b'}, {'$oid': '69fd7f7568f7e97ef44397dd'}, {'$oid': '69f98d8168f7e97ef441fa13'}, {'$oid': '69f98b4868f7e97ef441f940'}, {'$oid': '69f8b55d68f7e97ef441a373'}, {'$oid': '69f8a85868f7e97ef441a282'}, {'$oid': '69f88c1f68f7e97ef4419608'}]",{'$oid': '69f8608068f7e97ef44183e4'},[{'$oid': '69f8608068f7e97ef44183e4'}],1,/bits/1779994986397-69f8608068f7e97ef44183e4,74,0,0,0,True,[],{'$date': '2026-05-28T19:03:06.398Z'},1,False
+{'$oid': '6a1892d7fcdbfad047e3eedc'},AK BEATS,About Ak beats,"{'public_id': 'zatch/Bits/1779995336729-233048061.mp4', 'url': 'https://zatchp.b-cdn.net/zatch/Bits/1779995336729-233048061.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1779995342971-387142172.jpg', 'url': 'https://zatchp.b-cdn.net/zatch/Bits/thumbnails/1779995342971-387142172.jpg'}","['#Akbeats', '#mensfashion', '#india']","[{'$oid': '6a0b61ccd382a23d66b46220'}, {'$oid': '6a0ab529b7bb9861659d6541'}, {'$oid': '6a0aaac2b7bb9861659d61e1'}, {'$oid': '69ff49ef9210c3b1aa02984b'}, {'$oid': '69fd7f7568f7e97ef44397dd'}, {'$oid': '69f98d8168f7e97ef441fa13'}, {'$oid': '69f98b4868f7e97ef441f940'}, {'$oid': '69f8b55d68f7e97ef441a373'}, {'$oid': '69f8a85868f7e97ef441a282'}, {'$oid': '69f88c1f68f7e97ef4419608'}]",{'$oid': '69f8608068f7e97ef44183e4'},"[{'$oid': '698e263e2c63bfbc0476857e'}, {'$oid': '699a2e703ec6020eaac62877'}]",2,/bits/1779995351496-69f8608068f7e97ef44183e4,66,0,0,0,True,"[{'userId': {'$oid': '699a2e703ec6020eaac62877'}, 'text': 'AK BEATS', '_id': {'$oid': '6a2435cc9d6bad255a9ddf69'}, 'createdAt': {'$date': '2026-06-06T14:59:24.849Z'}}]",{'$date': '2026-05-28T19:09:11.497Z'},3,False
+{'$oid': '6a189f6efcdbfad047e3fc69'},Substract the Mind,"⚡ Beige tones. Street soul. Signature attitude.
+Crafted for the ones who move different — this premium statement shirt blends minimal luxury with bold back-print energy. Clean from the front, powerful from the back, and styled to own every frame.
+✔ Premium streetwear aesthetic
+✔ Soft neutral shade for effortless styling
+✔ Bold graphic back print for standout presence
+✔ Perfect fit for casual, café, travel & nightlife looks
+✔ Made to turn simple outfits into statement looks
+“Not just a shirt — it’s a whole vibe.” 🔥","{'public_id': 'zatch/Bits/1779998564970-38986044.mp4', 'url': 'https://zatchp.b-cdn.net/zatch/Bits/1779998564970-38986044.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1779998567890-324880732.png', 'url': 'https://zatchp.b-cdn.net/zatch/Bits/thumbnails/1779998567890-324880732.png'}","['#Shirt', '#Fashion', '#Luxury']",[{'$oid': '6a189e26fcdbfad047e3fbf0'}],{'$oid': '69f8608068f7e97ef44183e4'},[],0,/bits/1779998574333-69f8608068f7e97ef44183e4,75,0,0,0,True,[],{'$date': '2026-05-28T20:02:54.334Z'},0,False
+{'$oid': '6a1d93cd61d3ca2f147504b8'},THE UNIFORM FOR ANCESTRAL POWER,"The warrior doesn't face you because he doesn’t need validation. Behind him stands the fort—not as protection, but as proof of conquest.
+
+This is an architecture of presence. A precision-engineered drop shoulder drape designed for an uncompromising silhouette and rigid street fall. We don’t follow standards, we set them. This isn't history—this is identity.
+
+Issue 02 is strictly limited. Once your size goes dark, it's gone for good.","{'public_id': 'zatch/Bits/1780323262790-849800557.mp4', 'url': 'https://zatchp.b-cdn.net/zatch/Bits/1780323262790-849800557.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1780323275199-660461036.jpg', 'url': 'https://zatchp.b-cdn.net/zatch/Bits/thumbnails/1780323275199-660461036.jpg'}","['#Raje-series', '#Oversized T-shirt', '#Oversized streetwear T-shirt india', '#Oversized graphics tee', '#Oversized', '#New Drop', '#Men', '#Men Streetwear']",[{'$oid': '6a1d695361d3ca2f1470d488'}],{'$oid': '6a1d5b3e61d3ca2f1470cf8e'},[],0,/bits/1780323277577-6a1d5b3e61d3ca2f1470cf8e,64,1,0,0,True,[],{'$date': '2026-06-01T14:14:37.578Z'},0,False
+{'$oid': '6a1d93d461d3ca2f147504c8'},Little Picks Deluxe Combo,"A carefully curated collection of adorable accessories and elegant jewelry, designed to make every day feel a little more special. From cute hair essentials to charming jewelry pieces, this combo is perfect for gifting or treating yourself.
+💖 Includes:
+Satin Scrunchie
+Satin Bow
+Frangipani Hair Clip
+Tiny Flower Clips
+Flower Claw Clip
+Jewelry Combo
+Silver Necklace
+Earring Studs
+Beauty Bracelet
+Crystal Bracelet
+Beauty Candy","{'public_id': 'zatch/Bits/1780323225792-790472764.mp4', 'url': 'https://zatchp.b-cdn.net/zatch/Bits/1780323225792-790472764.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1780323276620-882798501.jpg', 'url': 'https://zatchp.b-cdn.net/zatch/Bits/thumbnails/1780323276620-882798501.jpg'}","['#fashion', ""#woman's"", '#gifts']",[{'$oid': '6a1d929a61d3ca2f14750466'}],{'$oid': '69e51ea68174770ee78f3b81'},[],0,/bits/1780323284351-69e51ea68174770ee78f3b81,37,0,0,0,True,[],{'$date': '2026-06-01T14:14:44.352Z'},0,False
+{'$oid': '6a1da3ea61d3ca2f14751546'},Stop Buying Basic Oversized Tees,"This is not thin fast fashion.
+This is Swaraj by BhaariGear — a premium 240 GSM layered oversized streetwear tee inspired by warrior mentality, discipline, and Indian legacy.
+
+Heavyweight feel.
+Premium layered styling.
+Bold cinematic back graphic.
+Built to stand out instantly.
+
+✔ Premium 240 GSM heavyweight fabric
+✔ Layered oversized t-shirt design
+✔ Drop shoulder streetwear fit
+✔ Bold warrior-inspired back print
+✔ Soft premium feel with structured look
+✔ Built for real streetwear lovers","{'public_id': 'zatch/Bits/1780327383977-491597232.mp4', 'url': 'https://zatchp.b-cdn.net/zatch/Bits/1780327383977-491597232.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1780327400266-560937185.jpg', 'url': 'https://zatchp.b-cdn.net/zatch/Bits/thumbnails/1780327400266-560937185.jpg'}","['#T-shirt', '#raje-series', '#Raje', '#Oversized', '#Oversized graphics tee', '#Newdrop', '#Men', '#240gsm', '#BhaariGear']","[{'$oid': '6a1d9c4661d3ca2f14750d94'}, {'$oid': '6a1d695361d3ca2f1470d488'}]",{'$oid': '6a1d5b3e61d3ca2f1470cf8e'},[],0,/bits/1780327402980-6a1d5b3e61d3ca2f1470cf8e,44,0,0,0,True,[],{'$date': '2026-06-01T15:23:22.981Z'},0,False
+{'$oid': '6a1da45861d3ca2f14751bce'},crochet sunflower bag charm🌻✨️,,"{'public_id': 'zatch/Bits/1780327458596-816517966.mp4', 'url': 'https://zatchp.b-cdn.net/zatch/Bits/1780327458596-816517966.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1780327504208-885309193.jpg', 'url': 'https://zatchp.b-cdn.net/zatch/Bits/thumbnails/1780327504208-885309193.jpg'}","['#crochet', '#crochetsunflower', '#bagcharm']",[{'$oid': '6a1d9fce61d3ca2f1475113b'}],{'$oid': '69e36470330134cd220d6fd0'},[{'$oid': '69e51ea68174770ee78f3b81'}],1,/bits/1780327512270-69e36470330134cd220d6fd0,57,0,0,0,True,[],{'$date': '2026-06-01T15:25:12.27Z'},1,False
+{'$oid': '6a1daccb61d3ca2f147522ed'},Obsidian Gold Smartwatch – Fire-Boltt Edition | BhaariGear,"Premium smart wearable designed for those who want technology and style in one package. The Obsidian Gold Smartwatch – Fire-Boltt Edition combines a luxury-inspired gold finish with modern smartwatch functionality including fitness tracking, health monitoring, notifications, Bluetooth connectivity, and daily productivity features. Built for both fashion and performance, making it the perfect accessory for modern streetwear and lifestyle enthusiasts.","{'public_id': 'zatch/Bits/1780329664880-209885439.mp4', 'url': 'https://zatchp.b-cdn.net/zatch/Bits/1780329664880-209885439.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1780329671473-629458579.jpg', 'url': 'https://zatchp.b-cdn.net/zatch/Bits/thumbnails/1780329671473-629458579.jpg'}","['#youth fashion', '#wrist wear', '#time drip collection', '#tech fashion', '#Streetwear accessories', '#smart watch']",[{'$oid': '6a1da6a761d3ca2f1475229e'}],{'$oid': '6a1d5b3e61d3ca2f1470cf8e'},[],0,/bits/1780329675871-6a1d5b3e61d3ca2f1470cf8e,38,0,0,0,True,[],{'$date': '2026-06-01T16:01:15.872Z'},0,False
+{'$oid': '6a1ea1416728afd227b9fa38'},Your Smartwatch cost Less than Your gym shoes but still looks premium,"✔ Premium black & gold look
+✔ Calling smartwatch
+✔ Fitness + daily wear ready
+✔ Clean luxury aesthetic without spending crazy money
+
+This is not just a smartwatch.
+It’s part of the fit. ⚡","{'public_id': 'zatch/Bits/1780392243050-728896182.mp4', 'url': 'https://zatchp.b-cdn.net/zatch/Bits/1780392243050-728896182.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1780392256910-952546531.jpg', 'url': 'https://zatchp.b-cdn.net/zatch/Bits/thumbnails/1780392256910-952546531.jpg'}","['#Smartwatch', '#unisex Smart watch', '#tech accessories india', '#stylish smartwatch', '#smartwatch with calling', '#premium smart watch', '#nosie smartwatch', '#blackgoldsmartwatch']",[{'$oid': '6a1e6e267a12b194e15b3d6e'}],{'$oid': '6a1d5b3e61d3ca2f1470cf8e'},[],0,/bits/1780392257937-6a1d5b3e61d3ca2f1470cf8e,38,0,0,0,True,[],{'$date': '2026-06-02T09:24:17.938Z'},0,False
+{'$oid': '6a22db91ad7941493646e922'},little baby hamper,"999/- 
+
+Delivery charges 70/-
+
+Title 
+Little Babydoll Hamper 
+
+Description 
+Aunty’s love packed in the cutest way 🎀
+A special hamper for a 1 year baby girl & her mom 👶🏻
+Perfect mix of love, care & surprises ✨
+
+Limited stock available 😱
+DM now to customize yours 💌
+All India shipping available 🚚🎀
+.
+.
+.
+.
+.
+#babygifts 
+#birthdayhampers 
+#birthdaycelebration 
+#feedfeed 
+#customized","{'public_id': 'zatch/Bits/1780669287204-183877933.mp4', 'url': 'https://zatchp.b-cdn.net/zatch/Bits/1780669287204-183877933.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1780669323292-82525345.jpg', 'url': 'https://zatchp.b-cdn.net/zatch/Bits/thumbnails/1780669323292-82525345.jpg'}","['#birthdayhampers', '#birthdaycelebration', '#feedfeed']",[{'$oid': '6a22d9d5ad7941493646e763'}],{'$oid': '69e51ea68174770ee78f3b81'},[],0,/bits/1780669329221-69e51ea68174770ee78f3b81,13,0,0,0,True,[],{'$date': '2026-06-05T14:22:09.222Z'},0,False
+{'$oid': '6a22df48ad7941493646eafb'},Cindrella hamper,"899/- 
+Delivery 60 
+
+Cindrella Hamper 
+
+Description 
+
+Cute choosen picks 
+Trendy hair claws and jewellery ❤️
+Hurry, limited stock ⚡
+Special discounts for early customers 🎀
+.
+.
+.
+.
+.
+#birthdayhampers
+#customized
+#feedfeed
+#smallbusinessindia 
+#instagood","{'public_id': 'zatch/Bits/1780670256928-308552112.mp4', 'url': 'https://zatchp.b-cdn.net/zatch/Bits/1780670256928-308552112.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1780670274408-701436418.jpg', 'url': 'https://zatchp.b-cdn.net/zatch/Bits/thumbnails/1780670274408-701436418.jpg'}","['#gifts', '#hamper', '#Cindrella']",[{'$oid': '6a22dbeaad7941493646e9eb'}],{'$oid': '69e51ea68174770ee78f3b81'},[],0,/bits/1780670280222-69e51ea68174770ee78f3b81,23,0,0,0,True,[],{'$date': '2026-06-05T14:38:00.223Z'},0,False
+{'$oid': '6a22e0b0ad7941493646ed22'},Little cute picks,"350/- 
+
+Delivery charges 60 
+
+Description 
+
+Cute little picks ✨
+Trendy teddy bear keychain lipgloss 
+Korean hair claws 
+And beautiful tulip earings 
+And more ✨
+
+Hurry, limited stock ⚡
+Special discounts for early customers 🎀
+.
+.
+.
+.
+.
+#feedfeed
+#gifthampers
+#customised
+#instagood
+#smallbusinessowner","{'public_id': 'zatch/Bits/1780670602319-56110272.mp4', 'url': 'https://zatchp.b-cdn.net/zatch/Bits/1780670602319-56110272.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1780670628915-234027738.jpg', 'url': 'https://zatchp.b-cdn.net/zatch/Bits/thumbnails/1780670628915-234027738.jpg'}","['#gifthampers', '#instagood', '#smallbusinessowner']",[{'$oid': '6a22dfeaad7941493646ebc4'}],{'$oid': '69e51ea68174770ee78f3b81'},[{'$oid': '698e269c2c63bfbc04768709'}],1,/bits/1780670640717-69e51ea68174770ee78f3b81,10,0,0,0,True,[],{'$date': '2026-06-05T14:44:00.718Z'},1,False
+{'$oid': '6a22ed04ad7941493646f243'},Packing a luxury birthday hamper,"Packing a luxury birthday hamper for a birthday girl 🥹💜🎁✨
+Panda theme + cutest goodies 🎀
+✨ Introducing anti-tarnish jewellery and poloroids for the first time 💎
+Made with love by her bestie 💕
+DM to create yours 💌
+.
+.
+.
+.
+.
+#birthdayhampers 
+#customised 
+#instagrambusinessgrowth 
+#feedfeed 
+#koreanfashion","{'public_id': 'zatch/Bits/1780673733408-773905130.mp4', 'url': 'https://zatchp.b-cdn.net/zatch/Bits/1780673733408-773905130.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1780673755672-274962275.jpg', 'url': 'https://zatchp.b-cdn.net/zatch/Bits/thumbnails/1780673755672-274962275.jpg'}","['#customised', '#instagrambusinessgrowth', '#koreanfashion']",[{'$oid': '6a22ec3cad7941493646f212'}],{'$oid': '69e51ea68174770ee78f3b81'},[],0,/bits/1780673796891-69e51ea68174770ee78f3b81,8,0,0,0,True,[],{'$date': '2026-06-05T15:36:36.891Z'},0,False
+{'$oid': '6a22ee04ad7941493646f337'},💖Pinteresty & Instagrammable gift hampers 🌸,"“We just launched our ₹99 hamper 🥹💖
+Pinteresty & Instagrammable gift hampers 🌸✨
+Perfect for gifting or self-love 🎁
+Customisation available 💌
+Limited stock — DM to order now 💕”
+.
+.
+.
+.
+.
+.
+#giftideas 
+#hampers 
+#smallbusinessindia 
+#aestheticgifts 
+#instagood","{'public_id': 'zatch/Bits/1780674025322-334905153.mp4', 'url': 'https://zatchp.b-cdn.net/zatch/Bits/1780674025322-334905153.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1780674043163-560531911.jpg', 'url': 'https://zatchp.b-cdn.net/zatch/Bits/thumbnails/1780674043163-560531911.jpg'}","['#hampers', '#smallbusinessindia', '#aestheticgifts']",[{'$oid': '6a22ed6fad7941493646f30c'}],{'$oid': '69e51ea68174770ee78f3b81'},[],0,/bits/1780674052311-69e51ea68174770ee78f3b81,21,0,0,0,True,[],{'$date': '2026-06-05T15:40:52.312Z'},0,False
+{'$oid': '6a254e2f9984a0ae2e2cd4fc'},Hamper,"DM now ✨
+Budget-friendly + All India shipping 💜🚚
+Hurry, limited stock ⚡
+Special discounts for early customers 🎀
+.
+.
+.
+.
+.
+#feedfeed
+#gifthampers
+#customised
+#instagood 
+#fypppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp","{'public_id': 'zatch/Bits/1780829723769-815444041.mp4', 'url': 'https://zatchp.b-cdn.net/zatch/Bits/1780829723769-815444041.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1780829725125-835359922.jpg', 'url': 'https://zatchp.b-cdn.net/zatch/Bits/thumbnails/1780829725125-835359922.jpg'}","['#instagood', '#hamper', '#gifts']",[{'$oid': '6a254db79984a0ae2e2cd4d6'}],{'$oid': '69e51ea68174770ee78f3b81'},[],0,/bits/1780829743086-69e51ea68174770ee78f3b81,4,0,0,0,True,[],{'$date': '2026-06-07T10:55:43.087Z'},0,False
+{'$oid': '6a25936d9984a0ae2e2ce1d6'},Affordable picks hamper,"DM now ✨
+Budget-friendly + All India shipping 💜🚚
+Hurry, limited stock ⚡
+Special discounts for early customers 🎀
+.
+.
+.
+.
+.
+#feedfeed
+#gifthampers
+#customised
+#instagood 
+#fypppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp","{'public_id': 'zatch/Bits/1780847338761-244244237.mp4', 'url': 'https://zatchp.b-cdn.net/zatch/Bits/1780847338761-244244237.mp4'}","{'public_id': 'zatch/Bits/thumbnails/1780847450439-683373137.jpg', 'url': 'https://zatchp.b-cdn.net/zatch/Bits/thumbnails/1780847450439-683373137.jpg'}","['#instagood', '#hamper', '#gifts']",[{'$oid': '6a2592639984a0ae2e2ce1b1'}],{'$oid': '69e51ea68174770ee78f3b81'},[],0,/bits/1780847469159-69e51ea68174770ee78f3b81,2,0,0,0,True,[],{'$date': '2026-06-07T15:51:09.16Z'},0,False
