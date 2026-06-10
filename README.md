@@ -404,11 +404,3 @@ GET /recommend/user/69f8608068f7e97ef44183e4
 ### Rutujaa Murkute
 
 Data Science | Machine Learning | Recommendation Systems
-
----
-
-# ⭐ If you found this project useful
-
-Please consider giving it a Star ⭐ on GitHub.
-
-It helps support the project and motivates future improvements.
